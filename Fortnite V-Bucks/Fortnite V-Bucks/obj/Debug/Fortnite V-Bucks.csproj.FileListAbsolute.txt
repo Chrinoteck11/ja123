@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\od\Fortnite V-Bucks\Fortnite V-Bucks\bin\Debug\Fortnite V-Bucks.exe.config
+C:\Users\User\Desktop\od\Fortnite V-Bucks\Fortnite V-Bucks\bin\Debug\Fortnite V-Bucks.exe
+C:\Users\User\Desktop\od\Fortnite V-Bucks\Fortnite V-Bucks\bin\Debug\Fortnite V-Bucks.pdb
+C:\Users\User\Desktop\od\Fortnite V-Bucks\Fortnite V-Bucks\obj\Debug\Fortnite V-Bucks.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\od\Fortnite V-Bucks\Fortnite V-Bucks\obj\Debug\Fortnite V-Bucks.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\od\Fortnite V-Bucks\Fortnite V-Bucks\obj\Debug\Fortnite_V_Bucks.Form1.resources
+C:\Users\User\Desktop\od\Fortnite V-Bucks\Fortnite V-Bucks\obj\Debug\Fortnite_V_Bucks.Properties.Resources.resources
+C:\Users\User\Desktop\od\Fortnite V-Bucks\Fortnite V-Bucks\obj\Debug\Fortnite V-Bucks.csproj.GenerateResource.cache
+C:\Users\User\Desktop\od\Fortnite V-Bucks\Fortnite V-Bucks\obj\Debug\Fortnite V-Bucks.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\od\Fortnite V-Bucks\Fortnite V-Bucks\obj\Debug\Fortnite V-Bucks.exe
+C:\Users\User\Desktop\od\Fortnite V-Bucks\Fortnite V-Bucks\obj\Debug\Fortnite V-Bucks.pdb
